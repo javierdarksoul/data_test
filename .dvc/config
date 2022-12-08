@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gs://test-bucket-dvc
+    url = gs://example-vertex-ai
